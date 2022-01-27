@@ -11,6 +11,18 @@ I will criticize the work which was creates by Aibek and Akzhol. This react app 
 
 Very convenient and well-developed react app. I really liked the design of the calculator, all the colors are worked out very well, without any unnecessary things. everything works fine. I think everything is perfectly done if we will compare it with our level of programming. Nice work, I like it. Nazim
 
+"Sometimes, the simplest things mess you up" Arlan
+
+Please upload that project. I want to watch it ---> Sabina
+
+Many shortcoming need to be corrected ---> Aibek
+
+Bro can use your coode in my app? ---> Sarvar
+
+It's working... Thanks ---> Talant
+
+Helpful ---> Erlan
+
 
 # Getting Started with Create React App
 
