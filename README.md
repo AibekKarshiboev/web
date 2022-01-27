@@ -1,3 +1,17 @@
+# React App
+
+## Team Members: Akzhol Suborov Aibek Karshiboev
+## About project
+This project is about calculator made by using react. You can solve arithmetic solutions. We mean +, -, /, *.
+
+## Feedbaks: 
+Great. Very good analogue real calculator. The app has a lot of arithmetic functions. The design of app is great. Also I liked this form Venera
+
+I will criticize the work which was creates by Aibek and Akzhol. This react app was designed very cool. And it is awesome, I liked it. The app is about arithmetic , it is created professionally. I appreciate this work. I look forward to the same cool projects. Nuriza Paishan kyzy
+
+Very convenient and well-developed react app. I really liked the design of the calculator, all the colors are worked out very well, without any unnecessary things. everything works fine. I think everything is perfectly done if we will compare it with our level of programming. Nice work, I like it. Nazim
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
