@@ -4,7 +4,7 @@ function App() {
   const [calc, setCalc] = useState("");
   const [result, setResult] = useState("");
 
-  const ops = ['/', '*', '+', '-', '.'];
+  const ops = ['÷', 'x', '+', '-', '.'];
 
   const updateCalc = value => {
     if (
@@ -49,23 +49,25 @@ function App() {
 
     setCalc(value);
   }
+  
 
   return(
     <div className = 'App'>
+      
       <div className = 'calculator'>
         <div className = 'display'>
           { result? <span>({result})</span> : ''}
           
-          {calc || "0"}
+          {calc || "Write your numbers"}
         </div>
 
         <div className = 'operators'>
-          <button onClick={() => updateCalc('/')}>/</button>
-          <button onClick={() => updateCalc('*')}>*</button>
+          <button onClick={() => updateCalc('/')}>÷</button>
+          <button onClick={() => updateCalc('*')}>x</button>
           <button onClick={() => updateCalc('+')}>+</button>
           <button onClick={() => updateCalc('-')}>-</button>
-
-          <button onClick={deleteLast}>DEL</button>
+          
+          
         </div>
 
         <div className='digits'>
@@ -74,6 +76,12 @@ function App() {
         <button onClick={() => updateCalc('.')}>.</button>
 
         <button onClick={calculate}>=</button>
+        </div>
+
+        <div className = 'degree'>
+        <button onClick={() => updateCalc('**')}>DGR2</button>
+        <button onClick={() => updateCalc('3,1415926535')}>PI</button>
+        <button onClick={deleteLast}>CLR</button>
         </div>
       </div>
     </div>
